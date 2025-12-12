@@ -1,0 +1,23 @@
+@use "../node_modules/bootstrap/scss/bootstrap" with (
+  $dark: #000,
+  $body-bg: #000,
+  $primary: #233a7d,
+  $secondary: #b5c9e9,
+  $info: #222222,
+
+  $font-family-base: ("Manrope", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif),
+  $headings-font-family: ("Bebas Neue", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif),
+  $display-font-family: ("Bebas Neue", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif),
+
+  $input-bg: #222222,
+  $input-color: #ffffff,
+  $input-placeholder-color: rgba(255, 255, 255, .70),
+  $input-border-color: rgba(255, 255, 255, .25)
+  
+);
+
+.project-img {
+  max-width: 448px;
+  height: auto;
+  object-fit: contain;
+}
