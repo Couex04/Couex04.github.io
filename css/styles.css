@@ -11866,10 +11866,5 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-.project-img {
-  max-width: 448px;
-  height: auto;
-  object-fit: contain;
-}
 
 /*# sourceMappingURL=styles.css.map */
