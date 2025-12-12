@@ -4,7 +4,7 @@
 
 ### Captures d’écran
 
-#### Page home
+#### Page index
 ![Accueil](./docs/screenshots/accueil.png)
 ![Projets](./docs/screenshots/projets.png)
 ![Contact](./docs/screenshots/contact.png)
@@ -47,8 +47,8 @@
 - git clone https://github.com/Couex04/Couex04.github.io.git
 
 ### 3) Ouvrir le site
-- Copier le chemin d’accès (path) Windows dans votre navigateur du fichier **home.html**
-- Si vous avez une extension de **serveur local** par exemple *Live Server* sur VS Code, ouvrez VS Code et lancez le serveur de la page **home.html**
+- Copier le chemin d’accès (path) Windows dans votre navigateur du fichier **index.html**
+- Si vous avez une extension de **serveur local** par exemple *Live Server* sur VS Code, ouvrez VS Code et lancez le serveur de la page **index.html**
 
 --- 
 
