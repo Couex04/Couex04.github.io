@@ -44,7 +44,7 @@
 - Optionnel : une extension de **serveur local** type *Live Server* (VS Code).
 
 ### 2) Installation
-- git clone <URL_DE_TON_DEPOT>
+- git clone https://github.com/Couex04/Couex04.github.io.git
 
 ### 3) Ouvrir le site
 - Copier le chemin d’accès (path) Windows dans votre navigateur du fichier **home.html**
@@ -54,8 +54,8 @@
 
 ## Coordonnées
 
-Email : yann.touron04@gmail.com
-LinkedIn : https://www.linkedin.com/in/yann-touron-b0b149353/
+- Email : yann.touron04@gmail.com
+- LinkedIn : https://www.linkedin.com/in/yann-touron-b0b149353/
 
 --- 
 
