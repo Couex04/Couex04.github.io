@@ -5,7 +5,7 @@
 ### Captures d’écran
 
 #### Page index
-![Accueil](./docs/screenshots/accueil.png)
+![Accueil](./docs/screenshots/home.png)
 ![Projets](./docs/screenshots/projets.png)
 ![Contact](./docs/screenshots/contact.png)
 
